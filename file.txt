@@ -1,2 +1,2 @@
-Add new text
+This is new text for Lab2
 Change in branch main1
